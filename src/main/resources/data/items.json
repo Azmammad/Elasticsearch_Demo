@@ -1,0 +1,703 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Mouse",
+    "price": 25.99,
+    "brand": "Logitech",
+    "category": "Electronics"
+  },
+  {
+    "id": "2",
+    "name": "Gaming Keyboard",
+    "price": 79.99,
+    "brand": "Razer",
+    "category": "Electronics"
+  },
+  {
+    "id": "3",
+    "name": "Bluetooth Speaker",
+    "price": 49.99,
+    "brand": "JBL",
+    "category": "Electronics"
+  },
+  {
+    "id": "4",
+    "name": "Smartphone",
+    "price": 699.99,
+    "brand": "Samsung",
+    "category": "Electronics"
+  },
+  {
+    "id": "5",
+    "name": "Laptop",
+    "price": 999.99,
+    "brand": "Apple",
+    "category": "Computers"
+  },
+  {
+    "id": "6",
+    "name": "Portable SSD",
+    "price": 89.99,
+    "brand": "SanDisk",
+    "category": "Storage"
+  },
+  {
+    "id": "7",
+    "name": "Monitor",
+    "price": 199.99,
+    "brand": "Dell",
+    "category": "Electronics"
+  },
+  {
+    "id": "8",
+    "name": "Smartwatch",
+    "price": 299.99,
+    "brand": "Garmin",
+    "category": "Wearables"
+  },
+  {
+    "id": "9",
+    "name": "Headphones",
+    "price": 129.99,
+    "brand": "Sony",
+    "category": "Audio"
+  },
+  {
+    "id": "10",
+    "name": "Tablet",
+    "price": 349.99,
+    "brand": "Apple",
+    "category": "Computers"
+  },
+  {
+    "id": "11",
+    "name": "Camera",
+    "price": 449.99,
+    "brand": "Canon",
+    "category": "Photography"
+  },
+  {
+    "id": "12",
+    "name": "Fitness Tracker",
+    "price": 99.99,
+    "brand": "Fitbit",
+    "category": "Wearables"
+  },
+  {
+    "id": "13",
+    "name": "Wireless Charger",
+    "price": 29.99,
+    "brand": "Anker",
+    "category": "Accessories"
+  },
+  {
+    "id": "14",
+    "name": "Power Bank",
+    "price": 39.99,
+    "brand": "Xiaomi",
+    "category": "Accessories"
+  },
+  {
+    "id": "15",
+    "name": "Desktop PC",
+    "price": 1199.99,
+    "brand": "HP",
+    "category": "Computers"
+  },
+  {
+    "id": "16",
+    "name": "USB Flash Drive",
+    "price": 14.99,
+    "brand": "Kingston",
+    "category": "Storage"
+  },
+  {
+    "id": "17",
+    "name": "Gaming Console",
+    "price": 499.99,
+    "brand": "Sony",
+    "category": "Gaming"
+  },
+  {
+    "id": "18",
+    "name": "Router",
+    "price": 89.99,
+    "brand": "TP-Link",
+    "category": "Networking"
+  },
+  {
+    "id": "19",
+    "name": "Graphics Card",
+    "price": 699.99,
+    "brand": "NVIDIA",
+    "category": "Computers"
+  },
+  {
+    "id": "20",
+    "name": "External Hard Drive",
+    "price": 59.99,
+    "brand": "WD",
+    "category": "Storage"
+  },
+  {
+    "id": "21",
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "brand": "Corsair",
+    "category": "Electronics"
+  },
+  {
+    "id": "22",
+    "name": "Smart Light Bulb",
+    "price": 19.99,
+    "brand": "Philips",
+    "category": "Home"
+  },
+  {
+    "id": "23",
+    "name": "VR Headset",
+    "price": 299.99,
+    "brand": "Oculus",
+    "category": "Gaming"
+  },
+  {
+    "id": "24",
+    "name": "Electric Toothbrush",
+    "price": 49.99,
+    "brand": "Oral-B",
+    "category": "Health"
+  },
+  {
+    "id": "25",
+    "name": "Blender",
+    "price": 69.99,
+    "brand": "Ninja",
+    "category": "Kitchen"
+  },
+  {
+    "id": "26",
+    "name": "Air Purifier",
+    "price": 129.99,
+    "brand": "Dyson",
+    "category": "Home"
+  },
+  {
+    "id": "27",
+    "name": "Instant Pot",
+    "price": 99.99,
+    "brand": "Instant",
+    "category": "Kitchen"
+  },
+  {
+    "id": "28",
+    "name": "Electric Kettle",
+    "price": 29.99,
+    "brand": "Hamilton Beach",
+    "category": "Kitchen"
+  },
+  {
+    "id": "29",
+    "name": "Coffee Maker",
+    "price": 79.99,
+    "brand": "Keurig",
+    "category": "Kitchen"
+  },
+  {
+    "id": "30",
+    "name": "Hair Dryer",
+    "price": 59.99,
+    "brand": "Revlon",
+    "category": "Beauty"
+  },
+  {
+    "id": "31",
+    "name": "Cordless Drill",
+    "price": 99.99,
+    "brand": "DeWalt",
+    "category": "Tools"
+  },
+  {
+    "id": "32",
+    "name": "Electric Scooter",
+    "price": 499.99,
+    "brand": "Segway",
+    "category": "Transport"
+  },
+  {
+    "id": "33",
+    "name": "Smart Thermostat",
+    "price": 249.99,
+    "brand": "Nest",
+    "category": "Home"
+  },
+  {
+    "id": "34",
+    "name": "Electric Guitar",
+    "price": 399.99,
+    "brand": "Fender",
+    "category": "Music"
+  },
+  {
+    "id": "35",
+    "name": "Bass Guitar",
+    "price": 599.99,
+    "brand": "Yamaha",
+    "category": "Music"
+  },
+  {
+    "id": "36",
+    "name": "Treadmill",
+    "price": 999.99,
+    "brand": "NordicTrack",
+    "category": "Fitness"
+  },
+  {
+    "id": "37",
+    "name": "Elliptical Machine",
+    "price": 799.99,
+    "brand": "ProForm",
+    "category": "Fitness"
+  },
+  {
+    "id": "38",
+    "name": "Dumbbell Set",
+    "price": 129.99,
+    "brand": "Bowflex",
+    "category": "Fitness"
+  },
+  {
+    "id": "39",
+    "name": "Foam Roller",
+    "price": 29.99,
+    "brand": "TriggerPoint",
+    "category": "Fitness"
+  },
+  {
+    "id": "40",
+    "name": "Yoga Mat",
+    "price": 39.99,
+    "brand": "Liforme",
+    "category": "Fitness"
+  },
+  {
+    "id": "41",
+    "name": "Water Bottle",
+    "price": 24.99,
+    "brand": "Hydro Flask",
+    "category": "Accessories"
+  },
+  {
+    "id": "42",
+    "name": "Camping Tent",
+    "price": 149.99,
+    "brand": "Coleman",
+    "category": "Outdoors"
+  },
+  {
+    "id": "43",
+    "name": "Sleeping Bag",
+    "price": 89.99,
+    "brand": "Marmot",
+    "category": "Outdoors"
+  },
+  {
+    "id": "44",
+    "name": "Backpack",
+    "price": 79.99,
+    "brand": "Osprey",
+    "category": "Outdoors"
+  },
+  {
+    "id": "45",
+    "name": "Binoculars",
+    "price": 199.99,
+    "brand": "Nikon",
+    "category": "Outdoors"
+  },
+  {
+    "id": "46",
+    "name": "Action Camera",
+    "price": 299.99,
+    "brand": "GoPro",
+    "category": "Photography"
+  },
+  {
+    "id": "47",
+    "name": "Tripod",
+    "price": 79.99,
+    "brand": "Manfrotto",
+    "category": "Photography"
+  },
+  {
+    "id": "48",
+    "name": "Drone",
+    "price": 999.99,
+    "brand": "DJI",
+    "category": "Photography"
+  },
+  {
+    "id": "49",
+    "name": "Projector",
+    "price": 499.99,
+    "brand": "Epson",
+    "category": "Home Theater"
+  },
+  {
+    "id": "50",
+    "name": "Streaming Device",
+    "price": 39.99,
+    "brand": "Roku",
+    "category": "Home Theater"
+  },
+  {
+    "id": "51",
+    "name": "E-Reader",
+    "price": 129.99,
+    "brand": "Kindle",
+    "category": "Books"
+  },
+  {
+    "id": "52",
+    "name": "Smart Plug",
+    "price": 24.99,
+    "brand": "TP-Link",
+    "category": "Home"
+  },
+  {
+    "id": "53",
+    "name": "Soundbar",
+    "price": 299.99,
+    "brand": "Bose",
+    "category": "Audio"
+  },
+  {
+    "id": "54",
+    "name": "Electric Fan",
+    "price": 49.99,
+    "brand": "Vornado",
+    "category": "Home"
+  },
+  {
+    "id": "55",
+    "name": "Air Fryer",
+    "price": 129.99,
+    "brand": "Ninja",
+    "category": "Kitchen"
+  },
+  {
+    "id": "56",
+    "name": "Espresso Machine",
+    "price": 499.99,
+    "brand": "Breville",
+    "category": "Kitchen"
+  },
+  {
+    "id": "57",
+    "name": "Dishwasher",
+    "price": 699.99,
+    "brand": "Bosch",
+    "category": "Appliances"
+  },
+  {
+    "id": "58",
+    "name": "Refrigerator",
+    "price": 1499.99,
+    "brand": "LG",
+    "category": "Appliances"
+  },
+  {
+    "id": "59",
+    "name": "Washing Machine",
+    "price": 899.99,
+    "brand": "Samsung",
+    "category": "Appliances"
+  },
+  {
+    "id": "60",
+    "name": "Dryer",
+    "price": 799.99,
+    "brand": "Whirlpool",
+    "category": "Appliances"
+  },
+  {
+    "id": "61",
+    "name": "Electric Stove",
+    "price": 999.99,
+    "brand": "GE",
+    "category": "Kitchen"
+  },
+  {
+    "id": "62",
+    "name": "Robot Vacuum",
+    "price": 399.99,
+    "brand": "iRobot",
+    "category": "Home"
+  },
+  {
+    "id": "63",
+    "name": "Pressure Washer",
+    "price": 249.99,
+    "brand": "Kärcher",
+    "category": "Tools"
+  },
+  {
+    "id": "64",
+    "name": "Lawn Mower",
+    "price": 349.99,
+    "brand": "Greenworks",
+    "category": "Outdoors"
+  },
+  {
+    "id": "65",
+    "name": "Hiking Shoes",
+    "price": 119.99,
+    "brand": "Salomon",
+    "category": "Outdoors"
+  },
+  {
+    "id": "66",
+    "name": "Portable Grill",
+    "price": 199.99,
+    "brand": "Weber",
+    "category": "Outdoors"
+  },
+  {
+    "id": "67",
+    "name": "Fishing Rod",
+    "price": 99.99,
+    "brand": "Shimano",
+    "category": "Outdoors"
+  },
+  {
+    "id": "68",
+    "name": "Tennis Racket",
+    "price": 149.99,
+    "brand": "Wilson",
+    "category": "Sports"
+  },
+  {
+    "id": "69",
+    "name": "Soccer Ball",
+    "price": 29.99,
+    "brand": "Adidas",
+    "category": "Sports"
+  },
+  {
+    "id": "70",
+    "name": "Basketball",
+    "price": 39.99,
+    "brand": "Spalding",
+    "category": "Sports"
+  },
+  {
+    "id": "71",
+    "name": "Baseball Glove",
+    "price": 79.99,
+    "brand": "Rawlings",
+    "category": "Sports"
+  },
+  {
+    "id": "72",
+    "name": "Golf Clubs",
+    "price": 799.99,
+    "brand": "Callaway",
+    "category": "Sports"
+  },
+  {
+    "id": "73",
+    "name": "Skateboard",
+    "price": 119.99,
+    "brand": "Element",
+    "category": "Sports"
+  },
+  {
+    "id": "74",
+    "name": "Rollerblades",
+    "price": 139.99,
+    "brand": "K2",
+    "category": "Sports"
+  },
+  {
+    "id": "75",
+    "name": "Bicycle",
+    "price": 499.99,
+    "brand": "Trek",
+    "category": "Transport"
+  },
+  {
+    "id": "76",
+    "name": "Helmet",
+    "price": 79.99,
+    "brand": "Giro",
+    "category": "Transport"
+  },
+  {
+    "id": "77",
+    "name": "Ski Goggles",
+    "price": 99.99,
+    "brand": "Oakley",
+    "category": "Outdoors"
+  },
+  {
+    "id": "78",
+    "name": "Ski Boots",
+    "price": 249.99,
+    "brand": "Salomon",
+    "category": "Outdoors"
+  },
+  {
+    "id": "79",
+    "name": "Camping Stove",
+    "price": 59.99,
+    "brand": "MSR",
+    "category": "Outdoors"
+  },
+  {
+    "id": "80",
+    "name": "Sleeping Pad",
+    "price": 89.99,
+    "brand": "Therm-a-Rest",
+    "category": "Outdoors"
+  },
+  {
+    "id": "81",
+    "name": "Snowboard",
+    "price": 499.99,
+    "brand": "Burton",
+    "category": "Outdoors"
+  },
+  {
+    "id": "82",
+    "name": "Waterproof Jacket",
+    "price": 199.99,
+    "brand": "Patagonia",
+    "category": "Clothing"
+  },
+  {
+    "id": "83",
+    "name": "Running Shoes",
+    "price": 129.99,
+    "brand": "Nike",
+    "category": "Clothing"
+  },
+  {
+    "id": "84",
+    "name": "Smart Glasses",
+    "price": 399.99,
+    "brand": "Ray-Ban",
+    "category": "Wearables"
+  },
+  {
+    "id": "85",
+    "name": "Action Camera Mount",
+    "price": 29.99,
+    "brand": "GoPro",
+    "category": "Accessories"
+  },
+  {
+    "id": "86",
+    "name": "3D Printer",
+    "price": 599.99,
+    "brand": "Creality",
+    "category": "Technology"
+  },
+  {
+    "id": "87",
+    "name": "LED TV",
+    "price": 799.99,
+    "brand": "Sony",
+    "category": "Home Theater"
+  },
+  {
+    "id": "88",
+    "name": "Smart Refrigerator",
+    "price": 2499.99,
+    "brand": "LG",
+    "category": "Appliances"
+  },
+  {
+    "id": "89",
+    "name": "Microwave Oven",
+    "price": 199.99,
+    "brand": "Panasonic",
+    "category": "Kitchen"
+  },
+  {
+    "id": "90",
+    "name": "Electric Skates",
+    "price": 349.99,
+    "brand": "Segway",
+    "category": "Transport"
+  },
+  {
+    "id": "91",
+    "name": "Gaming Chair",
+    "price": 299.99,
+    "brand": "DXRacer",
+    "category": "Gaming"
+  },
+  {
+    "id": "92",
+    "name": "Noise Cancelling Headphones",
+    "price": 349.99,
+    "brand": "Bose",
+    "category": "Audio"
+  },
+  {
+    "id": "93",
+    "name": "E-Bike",
+    "price": 1999.99,
+    "brand": "Specialized",
+    "category": "Transport"
+  },
+  {
+    "id": "94",
+    "name": "Portable Air Conditioner",
+    "price": 399.99,
+    "brand": "LG",
+    "category": "Home"
+  },
+  {
+    "id": "95",
+    "name": "Heat Gun",
+    "price": 59.99,
+    "brand": "Wagner",
+    "category": "Tools"
+  },
+  {
+    "id": "96",
+    "name": "Laser Level",
+    "price": 99.99,
+    "brand": "Bosch",
+    "category": "Tools"
+  },
+  {
+    "id": "97",
+    "name": "Paint Sprayer",
+    "price": 129.99,
+    "brand": "Graco",
+    "category": "Tools"
+  },
+  {
+    "id": "98",
+    "name": "Electric Bike",
+    "price": 2299.99,
+    "brand": "Trek",
+    "category": "Transport"
+  },
+  {
+    "id": "99",
+    "name": "Cordless Vacuum",
+    "price": 399.99,
+    "brand": "Dyson",
+    "category": "Home"
+  },
+  {
+    "id": "100",
+    "name": "Home Security Camera",
+    "price": 199.99,
+    "brand": "Arlo",
+    "category": "Home"
+  }
+]
+
